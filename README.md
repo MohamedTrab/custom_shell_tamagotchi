@@ -31,4 +31,4 @@ Este proyecto implementa un shell personalizado en Python que incluye una interf
 
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/tu_usuario/custom_shell_tamagotchi.git
+   git clone https://github.com/MohamedTrab/custom_shell_tamagotchi.git
